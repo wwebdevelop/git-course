@@ -4,3 +4,4 @@ Curso criado para ensinar git
 4 linha
 5 linha aula de previa e pós
 6a linha: subindo para o diretório remoto
+8a linha: tags
